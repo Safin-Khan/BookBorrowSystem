@@ -1,0 +1,15 @@
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\DAL.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\DAL.pdb
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.pdb
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\DAL.dll.config
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\EntityFramework.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\EntityFramework.xml
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\AIUB\Semester 9\.NET\BookBorrow\DAL\obj\Debug\DAL.Migrations.Library.resources

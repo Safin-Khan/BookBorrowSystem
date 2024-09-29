@@ -1,0 +1,14 @@
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\BLL.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\BLL.pdb
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\DAL.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\DAL.pdb
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\obj\Debug\BLL.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\obj\Debug\BLL.pdb
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\EntityFramework.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\DAL.dll.config
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\EntityFramework.xml
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\AutoMapper.dll
+D:\AIUB\Semester 9\.NET\BookBorrow\BLL\bin\Debug\AutoMapper.xml
